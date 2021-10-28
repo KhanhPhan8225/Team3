@@ -18,7 +18,8 @@ h1
 {
   font-family: 'Poppins', sans-serif;
   text-align: center;
-  color: #fff
+  color: #fff;
+  background: rgba(255, 255, 255, 0.05);
 }
 section
 {
